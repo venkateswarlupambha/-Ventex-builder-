@@ -9,6 +9,12 @@ This is a web based application developed for earth related bulider based websit
 
 **Project Link** - https://victorious-sky-09e485803.azurestaticapps.net/
 
+## Project title 😄
+       Ventex builder 🌠
+
+## Project description 🧐
+The best for tight buildings is now gathered under Ventex Tettesystem - an uncompromising system from Icopal. These are products and solutions characterized by superior quality, long experience and the latest technology for sealing systems. When you choose an uncompromising sealing system from BMI, it becomes easier to make the right decisions early in the construction process, while at the same time you make smarter choices for the environment and ensure a longer lifespan for the entire building.
+
 
 ## Features and Functionalities 😃
 
