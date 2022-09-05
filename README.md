@@ -44,6 +44,13 @@ The best for tight buildings is now gathered under Ventex Tettesystem - an uncom
 ### Resources
 ![IMG_20220905_115608](https://user-images.githubusercontent.com/110820099/188381124-f4d1e779-e572-409b-b6f2-53c89cfd74b7.jpg)
 
+## Tech Stack 💻
+
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 
 
