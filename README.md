@@ -7,7 +7,7 @@ This is a web based application developed for earth related bulider based websit
 ### This web based earth related Ventex builder application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
+**Project Link** - https://victorious-sky-09e485803.azurestaticapps.net/
 
 
 ## Features and Functionalities 😃
