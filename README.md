@@ -32,7 +32,11 @@ This is a web based application developed for earth related bulider based websit
 ### Sustainability
 ![IMG_20220905_115541](https://user-images.githubusercontent.com/110820099/188379876-442ad01a-7000-4928-925b-8dde659a9ba5.jpg)
 
-### System potofolia
+### System portfolio
+![IMG_20220905_115509](https://user-images.githubusercontent.com/110820099/188380875-1baaf156-ca69-466e-9b65-3831f64e3a37.jpg)
+
+### Resources
+
 
 
 
