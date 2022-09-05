@@ -21,4 +21,8 @@ This is a web based application developed for earth related bulider based websit
 
 ## Screen shots 😎
 ### Home page
+![IMG_20220905_115454](https://user-images.githubusercontent.com/110820099/188376539-05322e94-7f4b-4c09-9504-013b7a04aaad.jpg)
+
+### Pages 
+
 
